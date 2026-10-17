@@ -8,7 +8,7 @@
 // ESP32-CAM QR + ESP-NOW
 // ===============================
 
-// Motor ESP32 MAC address
+// Motor ESP32 MAC address (chnages for each esp32)
 uint8_t motorESP32MAC[] = {
   0x88, 0x57, 0x21, 0xB7, 0x7F, 0xB0
 };
